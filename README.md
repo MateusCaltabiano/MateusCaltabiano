@@ -1,13 +1,10 @@
 <h3>Hi there, welcome!</h3>
 
-<p>
 My name is Mateus Caltabiano and I'm currently **graduating** in _Software Engineering_ at Universidade de Brasília (UnB)
 
 Beyond my university studies, I'm also learning **JavaScript** and soon will begin studying **HTML** and **CSS**.
 
 Feel free to reach me through my email: mateus.frauzino@gmail.com
-
-</p>
 
 <div align="left">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusCaltabiano&show_icons=true&theme=github_dark"/>
