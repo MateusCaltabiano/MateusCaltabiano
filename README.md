@@ -3,7 +3,7 @@
 <p>
 My name is Mateus Caltabiano and I'm currently **graduating** in _Software Engineering_ at Universidade de Brasília (UnB)
 
-Beyond my college studies, I'm also learning **JavaScript** and soon will begin studying **HTML** and **CSS**.
+Beyond my university studies, I'm also learning **JavaScript** and soon will begin studying **HTML** and **CSS**.
 
 Feel free to reach me through my email: mateus.frauzino@gmail.com
 
