@@ -6,7 +6,10 @@ Beyond my college studies, I'm also learning **JavaScript** and soon will begin 
 
 Feel free to reach me through my email: mateus.frauzino@gmail.com
 
-[![Mateus' GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusCaltabiano&show_icons=true&theme=github_dark)](https://github.com/MateusCaltabiano/github-readme-stats)
+<div align="left">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusCaltabiano&show_icons=true&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCaltabiano&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
