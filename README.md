@@ -6,6 +6,8 @@ Beyond my college studies, I'm also learning **JavaScript** and soon will begin 
 
 Feel free to reach me through my email: mateus.frauzino@gmail.com
 
+[![Mateus' GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusCaltabiano)](https://github.com/MateusCaltabiano/github-readme-stats)
+
 <!--
 **MateusCaltabiano/MateusCaltabiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
