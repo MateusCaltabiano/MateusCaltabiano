@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, welcome!
+
+My name is Mateus Caltabiano and I'm currently **graduating** in _Software Engineering_ at Universidade de Brasília (UnB)
+
+Beyond my college studies, I'm also learning **JavaScript** and soon will begin studying **HTML** and **CSS**.
+
+Feel free to reach me through my email: mateus.frauzino@gmail.com
 
 <!--
 **MateusCaltabiano/MateusCaltabiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
