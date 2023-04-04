@@ -1,4 +1,4 @@
-### Hi there, welcome!
+<h3>Hi there, welcome!</h3>
 
 <p>
 My name is Mateus Caltabiano and I'm currently **graduating** in _Software Engineering_ at Universidade de Brasília (UnB)
@@ -14,16 +14,14 @@ Feel free to reach me through my email: mateus.frauzino@gmail.com
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCaltabiano&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<br>
-
-### Languages and tools:
+<h2>Languages and tools</h2>
 
 <div style="display: inline_block">
-     <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-     <img align="center" alt="" height="30" width="40" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
-     <img align="center" alt="" height="30" width="40" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/>
-    <img align="center" alt="" height="30" width="40" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-    <img align="center" alt="" height="30" width="40" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
+     <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+     <img align="center" alt="" height="40" width="50" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
+     <img align="center" alt="" height="40" width="50" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/>
+    <img align="center" alt="" height="40" width="50" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+    <img align="center" alt="" height="40" width="50" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
 </div>
 
 <br>
