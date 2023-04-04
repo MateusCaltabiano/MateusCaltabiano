@@ -13,7 +13,7 @@ Feel free to reach me through my email: mateus.frauzino@gmail.com
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusCaltabiano&show_icons=true&theme=github_dark"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCaltabiano&layout=compact&langs_count=7&theme=github_dark"/>
     <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusCaltabiano&theme=github_dark"/>
-    <img height="90" src="https://github-profile-trophy.vercel.app/?username=MateusCaltabiano&theme=darkhub">
+    <img height="90em" src="https://github-profile-trophy.vercel.app/?username=MateusCaltabiano&theme=darkhub&rank=SSS,SS,S,AAA,AA,A,SECRET">
 </div>
 
 <h2>Languages and tools</h2>
