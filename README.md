@@ -25,10 +25,12 @@ Feel free to reach me through my email: mateus.frauzino@gmail.com
 
 <div style="display: inline_block">
      <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-     <img align="center" alt="" height="40" width="50" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
-     <img align="center" alt="" height="40" width="50" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/>
-    <img align="center" alt="" height="40" width="50" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-    <img align="center" alt="" height="40" width="50" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
+     <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
+     <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg"/>
+    <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+    <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
+    <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+    <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg
 </div>
 
 <br>
