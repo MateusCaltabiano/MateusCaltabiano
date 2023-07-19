@@ -1,8 +1,8 @@
-<h3>Hi there, welcome!</h3>
+<h3>Hello there!</h3>
 
-My name is Mateus Caltabiano and I'm currently **graduating** in _Software Engineering_ at Universidade de Brasília (UnB)
+My name is Mateus Caltabiano and I'm currently **graduating** in _Software Engineering_ at Universidade de Brasília (UnB), Brazil
 
-Beyond my university studies, I'm also learning **JavaScript** and soon will begin studying **HTML** and **CSS**.
+Beyond my university studies, I'm currently studying **React**.
 
 Feel free to reach me through my email: mateus.frauzino@gmail.com
 
@@ -31,6 +31,7 @@ Feel free to reach me through my email: mateus.frauzino@gmail.com
     <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"/>
     <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
     <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+    <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
 </div>
 
 <br>
