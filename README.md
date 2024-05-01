@@ -4,10 +4,6 @@
 
 My name is Mateus Caltabiano and I'm currently **graduating** in _Software Engineering_ at Universidade de Brasília (UnB), Brazil
 
-Beyond my university studies, I'm currently studying **React**.
-
-Feel free to reach me through my email: mateus.frauzino@gmail.com
-
 <div align="left">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusCaltabiano&show_icons=true&theme=github_dark"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCaltabiano&layout=compact&langs_count=7&theme=github_dark"/>
