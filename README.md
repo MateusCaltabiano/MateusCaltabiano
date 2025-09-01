@@ -2,9 +2,9 @@
 
 <h3>Hello there!</h3>
 
-🎓 My name is Mateus Caltabiano and I'm currently **graduating** in _Software Engineering_ at Universidade de Brasília (UnB), Brazil<br/>
+🎓 My name is Mateus Caltabiano and I'm a _Software Engineer_, graduated from the University of Brasília (UnB), Brazil<br/>
 🇯🇵 I studied in Japan for 6 months as a student of Shibaura Institute of Technology's Course Taking Sandwich Program<br/>
-💼 I'm a software development intern at Bioflore 🌱<br/>
+💼 I'm a Junior Software Developer at Bioflore 🌱<br/>
 🔭 I'm also developing a Flutter mobile app for school Escola Caliandra<br/>
 
 
